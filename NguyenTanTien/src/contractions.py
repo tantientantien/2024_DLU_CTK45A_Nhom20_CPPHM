@@ -34,5 +34,4 @@ contractions_dict = {
     "you'll": "you will",
     "you're": "you are",
     "you've": "you have"
-    # Thêm nhiều contractions khác nếu cần
 } 
